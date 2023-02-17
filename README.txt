@@ -1,0 +1,1 @@
+Tratando de hacer el pokemon silver online.
