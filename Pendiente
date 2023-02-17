@@ -1,0 +1,11 @@
+- Aplicar sistema para establecer todas las posiciones posibles dentro del juego.
+
+- Animar el sprite
+
+- Probar a mejorar el envio de info del server al cliente (aplicar header?)
+
+- Solucionar tema de desconexion de jugadores.
+
+- Optimizar: Empieza a ir petao, hacer una lista previamente en el cliente con los jugadores a dibujar?
+
+
